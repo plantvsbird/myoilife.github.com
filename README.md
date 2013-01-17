@@ -1,4 +1,4 @@
-myoilife.github.com
-===================
+MyOILife
+========
 
 MyOILife
